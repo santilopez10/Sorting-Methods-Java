@@ -1,0 +1,6 @@
+To run the program open the Reader file and run that     
+   
+For some reason all of the sorting methods ran in zero milliseconds on average
+
+Occasionally one will run at 1 or 2 milliseconds, but this only seems to
+happen the first time I sort the data after opening the program  
